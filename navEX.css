@@ -1,0 +1,64 @@
+body{
+    margin: 0%;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+.head{
+    background-image: url(./images/130977-blue-and-white-polygon-pattern-background-vector-art.jpg);
+    height: 32.5rem;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+
+}
+
+#yo{
+    height: 12rem;
+    width: 12rem;
+    margin-left: 11rem;
+    margin-top: 1rem;
+    padding: 0%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+
+}
+.head h1{
+    margin-left: 24rem;
+    font-family: rockwell;
+    font-size: 6rem;
+    margin-top: 0%;
+    padding: 0%;
+    padding-top: 0%;
+    border-bottom: 0mm;
+    margin-bottom: 0%;
+}
+.head h2, h3{
+    font-size: 3rem;
+    margin-left: 24rem;
+    margin-top: 0%;
+    padding: 0%;
+    padding-top: 0%;
+    border-bottom: 0mm;
+    margin-bottom: 0%;
+}
+nav {
+    height: 4rem;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.945);
+}
+
+nav a {
+    text-decoration: none;
+    padding: 30px;
+    text-align: center;
+    float: left;
+    color: wheat;
+    font-size: 1.15rem;
+    padding-top: 19px;
+
+}
+.hover:hover {
+    color: rgb(146, 109, 103);
+  }
